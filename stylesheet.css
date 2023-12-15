@@ -1,0 +1,20 @@
+body {font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color:rgb(95, 35, 35);
+    background-color:rgb(233, 230, 221);
+    }
+    li{font-style: italic;font-weight: normal; text-decoration: dotted;}
+    h1{color: black;}
+    ul{color: rgb(93, 53, 53);}
+    .boldnorm {font-weight: bolder; font-style: normal;}
+    .underline {text-decoration: underline;}
+    .justify {text-align: justify;}
+    a{text-decoration: none;}
+
+    a:hover{text-decoration: underline; font-weight: bold;}
+a:visited{color: darkgreen;}
+    .homebg{background-image: url('realback.jpeg');}
+    .box1{border-width: 4px; border-style: solid; border-color:darksalmon;}
+
+    .box2 {border-width: 4px; border-style: solid; border-color:rgb(176, 76, 42);}
+    .box3 {margin: 30px;}
